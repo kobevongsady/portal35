@@ -1,7 +1,7 @@
 /* Global rules */
 
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
-@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
 
 html {
     background-color: lightgray;
@@ -23,9 +23,7 @@ h1 {
 }
 
 h1.pgae-header{
-    font-family: "Anton", sans-serif;
-    font-weight: 400;
-    font-style: normal;
+    font-family: "Merriweather", serif;
 }
 
 main.wrapper {
